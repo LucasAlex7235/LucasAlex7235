@@ -6,7 +6,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511961466798&text=Ol%C3%A1%20Lucas%2C%20Vi%20o%20seu%20perfil%20do%20GitHub!)
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:lucasalex7235@gmail.com</a>)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
