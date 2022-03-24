@@ -1,13 +1,12 @@
 
 ### Olá, eu sou o Lucas Alex 🖐️ 
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalex7235/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasalex7235/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511961466798&text=Ol%C3%A1%20Lucas%2C%20Vi%20o%20seu%20perfil%20do%20GitHub!)
-
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+<div>
+<a href="ttps://www.linkedin.com/in/lucasalex7235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>  
+<a href="https://www.instagram.com/lucasalex7235/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
+<a href="https://api.whatsapp.com/send?phone=5511961466798&text=Ol%C3%A1%20Lucas%2C%20Vi%20o%20seu%20perfil%20do%20GitHub!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a> 
+<a href="mailto:lucasalex7235@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+ </div>
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasalex7235&show_icons=true&theme=dracula)
