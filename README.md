@@ -18,8 +18,16 @@
 <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <img style="width:60px; margin-left:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> -->   
+ <img style="width:60px; margin-left:60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> -->
+ <!-- Modelo novo -->
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+                      
 </div></br>
  
 
-Apaixonado pela tecnologia | Estudante em linguagens de programação | Javascript | CSS | HTML.
+Apaixonado pela tecnologia | Estudante de desenvolvimento full-stack na Kenzie academy |HTML5, CSS3, JavaScript (ES6+), React, Redux, Python (Django e Flask) e SQL.
+
