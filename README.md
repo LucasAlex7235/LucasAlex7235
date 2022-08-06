@@ -1,48 +1,30 @@
-### Hi there 👋
 
-<!--
-**LucasAlex7235/LucasAlex7235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Olá! me chamo Lucas 🤓
 
-###
+- Junior Web Developer 🔥
+- Apaixonado por programação 📚
+- Um hobbie 🤔? 🎮 
+- Estudande de desenvolvimento full-stack
+- Contate-me: lucasalex7235@gmail.com
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Lucas" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Lucas" height="150" alt="languages graph"  />
+  <a href="https://github.com/LucasAlex7235">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlex7235&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlex7235&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-###
+## Habilidades
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-###
-
-<p align="left">Junior Web Developer Front-end 🔥</p>
-<p align="left">Apaixonado por programação 📚</p>
-<p align="left">Um hobbie 🤔 ? 🎮</p>
-<p align="left">Espero que goste dos meus portifólios</p>
-
+## Minhas redes
 <div align="left">
   <a href="https://www.linkedin.com/in/lucasalex7235/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -55,9 +37,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
 ###
-
-<img href="https://raw.githubusercontent.com/Lucas/Lucas/blob/output/snake.svg" alt="Snake animation" />
-
-###
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
