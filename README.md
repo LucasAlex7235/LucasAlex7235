@@ -2,17 +2,20 @@
 
 ## Olá! me chamo Lucas 🤓
 
+<div align="center">
+  <a href="https://github.com/LucasAlex7235">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlex7235&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlex7235&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+## Sobre mim:
 - Junior Web Developer 🔥
 - Apaixonado por programação 📚
 - Um hobbie 🤔? 🎮 
 - Estudande de desenvolvimento full-stack
 - Contate-me: lucasalex7235@gmail.com
 
-<div align="center">
-  <a href="https://github.com/LucasAlex7235">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlex7235&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlex7235&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ## Habilidades
 
