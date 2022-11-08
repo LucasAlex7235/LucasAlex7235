@@ -11,7 +11,7 @@
 
 ## Sobre mim:
   
-## Seja bem vindo !
+### Seja bem vindo !
   
   Tenho 25 anos, sou de Osasco, SP. Um grande amante da técnologia em geral. Amo o que faço, programar deixou de ser uma profissão, e sim uma paixão.
   Tenho alguns projetos em meu portifólio, sinta-se avontade para navegar neles. 
