@@ -14,14 +14,13 @@
   
 ### Seja bem vindo !
   
-   Tenho 25 anos, sou de Osasco, SP. Sou um desenvolvedor full-stack apaixonado por tecnologia. Iniciei meus estudos em Front-End em 2020, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+   Tenho 25 anos, sou de Osasco, SP. Sou um **desenvolvedor full-stack** apaixonado por tecnologia. Iniciei meus estudos em **front-end** em 2020, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
 
 Possuo foco em desenvolvimento full-stack utilizando JavaScript, React, NodeJS, Typescript, Git entre outras tecnologias que uso para criar sites e aplicações web de alto nível e valor. Tenho alguns repositórios em meu GitHub, sinta-se à vontade para navegar nas linhas códigos.
   
-- Junior Web Developer 🔥
-- Apaixonado por programação 📚
+- Full Stack Developer 🔥
+- Apaixonado por em estudos 📚
 - Um hobbie 🤔? 🎮 
-- Estudande de desenvolvimento full-stack
 - Contate-me: lucasalex7235@gmail.com
 
 
