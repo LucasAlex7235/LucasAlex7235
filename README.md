@@ -14,8 +14,9 @@
   
 ### Seja bem vindo !
   
-  Tenho 25 anos, sou de Osasco, SP. Um grande amante da técnologia em geral. Amo o que faço, programar deixou de ser uma profissão, e sim uma paixão.
-  Tenho alguns projetos em meu portifólio, sinta-se avontade para navegar neles. 
+   Tenho 25 anos, sou de Osasco, SP. Sou um desenvolvedor full-stack apaixonado por tecnologia. Iniciei meus estudos em Front-End em 2020, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+
+Possuo foco em desenvolvimento full-stack utilizando JavaScript, React, NodeJS, Typescript, Git entre outras tecnologias que uso para criar sites e aplicações web de alto nível e valor. Tenho alguns repositórios em meu GitHub, sinta-se à vontade para navegar nas linhas códigos.
   
 - Junior Web Developer 🔥
 - Apaixonado por programação 📚
@@ -24,10 +25,15 @@
 - Contate-me: lucasalex7235@gmail.com
 
 
-## Habilidades
+## Principais habilidades
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
