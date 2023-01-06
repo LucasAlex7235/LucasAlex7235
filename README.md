@@ -19,7 +19,7 @@
 Possuo foco em desenvolvimento full-stack utilizando JavaScript, React, Node.JS, Typescript, Git, Postgresql, Express.JS entre outras tecnologias que uso para criar sites e aplicações web de alto nível e valor. Tenho alguns repositórios em meu GitHub, sinta-se à vontade para navegar nas linhas códigos.
   
 - Full Stack Developer 🔥
-- Apaixonado por em estudos 📚
+- Apaixonado em estudar 📚
 - Um hobbie 🤔? 🎮 
 - Contate-me: lucasalex7235@gmail.com
 
