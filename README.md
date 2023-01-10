@@ -27,7 +27,9 @@ Possuo foco em desenvolvimento full-stack utilizando JavaScript, React, Node.JS,
 ## Principais habilidades
 
 <div align="left">
+  <a href="https://github.com/LucasAlex7235?tab=repositories&q=&type=public&language=javascript&sort=">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
