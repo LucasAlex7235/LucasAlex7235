@@ -4,10 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/LucasAlex7235">
-  <img height="180em" src="https://git-hub-readme2-lucasalex7235.vercel.app/api/top-langs/?username=LucasAlex7235&layout=compact&langs_count=7&theme=dark"/>
-  
-  <img height="180em" src="https://git-hub-readme2-lucasalex7235.vercel.app/api?username=LucasAlex7235&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-lucasalex7235.vercel.app/api/top-langs/?username=LucasAlex7235&layout=compact&langs_count=7&theme=dark"/>
+
+  <img height="180em" src="https://github-readme-stats-lucasalex7235.vercel.app/api?username=LucasAlex7235&show_icons=true&theme=dracula"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=LucasAlex7235&show_owner=true&repo=CRUD-API"/>-->
+    <!--https://vercel.com/lucasalex7235/github-readme-stats/B3K8WvaYgx4ZcKmSUJmpg8UbavmS-->
 </div>
 
 
