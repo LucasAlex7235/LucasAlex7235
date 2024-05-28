@@ -16,7 +16,7 @@
   
 ### Seja bem vindo !
   
-   Tenho 26 anos, sou de Osasco, SP. Sou um **desenvolvedor full-stack** apaixonado por tecnologia. Iniciei meus estudos em **front-end** em 2020, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+   Tenho 27 anos, sou de Osasco, SP. Sou um **desenvolvedor full-stack** apaixonado por tecnologia. Iniciei meus estudos em **front-end** em 2020, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
 
 Possuo foco em desenvolvimento full-stack utilizando Python, JavaScript, React, Node.JS, Typescript, Git, Postgresql, Express.JS entre outras tecnologias que uso para criar sites e aplicações web de alto nível e valor. Tenho alguns repositórios em meu GitHub, sinta-se à vontade para navegar nas linhas códigos.
   
