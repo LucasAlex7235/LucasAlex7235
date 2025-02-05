@@ -16,13 +16,13 @@
   
 ### Seja bem vindo !
   
-   Tenho 28 anos, sou de Osasco, SP. Sou um **desenvolvedor full-stack** apaixonado por tecnologia. Iniciei meus estudos em **front-end** em 2020, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+  E aí, Dev Explorers! Tenho 28 anos, sou de Osasco-SP e atuo como um Full Stack Developer sempre em busca de conhecimento (e XP!). Meu “Hello World” foi lá em 2020 no Front-end, e desde então sigo minha saga diária no universo do código, aprendendo e subindo de nível a cada commit.
 
-Possuo foco em desenvolvimento full-stack utilizando Python, JavaScript, React, Node.JS, Typescript, Git, Postgresql, Express.JS entre outras tecnologias que uso para criar sites e aplicações web de alto nível e valor. Tenho alguns repositórios em meu GitHub, sinta-se à vontade para navegar nas linhas códigos.
+Hoje, minha stack se aventura por Python, Ruby (Rails incluso!), JavaScript, TypeScript, React, Node.js, Next.js, NestJS, GraphQL, Docker, PostgreSQL, além de usar o querido Git para versionar cada batalha. Se quiser me acompanhar nessa jornada, sinta-se à vontade para explorar meus repositórios no GitHub — cada linha de código conta uma história (às vezes épica, às vezes bugada, mas sempre divertida).
   
 - Full Stack Developer 🔥
-- Apaixonado em estudar 📚
-- Um hobbie 🤔? 🎮 
+- Apaixonado por aprender e explorar novas tecnologias 📚
+- Hobby? Fechar umas quests (ou jogos) nas horas vagas 🎮  
 - Contate-me: lucasalex7235@gmail.com
 
 
