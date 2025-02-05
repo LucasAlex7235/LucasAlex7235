@@ -5,6 +5,17 @@
 ### Jogue aqui!
 [Clique para jogar](https://lucasalex7235.github.io/game_profile/)
 
+<!-- README.md -->
+### Jogue diretamente aqui
+
+<iframe 
+  src="h[ttps://seu-usuario.github.io/seu-repo/index.html](https://lucasalex7235.github.io/game_profile/)" 
+  width="600" 
+  height="400"
+  style="border: none;">
+</iframe>
+
+
 
 ## Sobre mim:
   
