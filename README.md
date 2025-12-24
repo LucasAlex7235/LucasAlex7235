@@ -1,61 +1,63 @@
+## Olá! Eu sou o Lucas 👋
 
+Full Stack Developer | Software Engineer | Dev em constante evolução
 
-## Olá! me chamo Lucas 🤓
+🎮 **Quer ver algo diferente?**  
+👉 [Clique aqui para jogar](https://lucasalex7235.github.io/game_profile/)
 
-### Jogue aqui!
-[Clique para jogar](https://lucasalex7235.github.io/game_profile/)
+---
 
-## Sobre mim:
-  
-### Seja bem vindo !
-  
-  E aí, Dev Explorers! Tenho 28 anos, sou de Osasco-SP e atuo como um Full Stack Developer sempre em busca de conhecimento (e XP!). Meu “Hello World” foi lá em 2020 no Front-end, e desde então sigo minha saga diária no universo do código, aprendendo e subindo de nível a cada commit.
+## Sobre mim
 
-Hoje, minha stack se aventura por Python, Ruby (Rails incluso!), JavaScript, TypeScript, React, Node.js, Next.js, NestJS, GraphQL, Docker, PostgreSQL, além de usar o querido Git para versionar cada batalha. Se quiser me acompanhar nessa jornada, sinta-se à vontade para explorar meus repositórios no GitHub — cada linha de código conta uma história (às vezes épica, às vezes bugada, mas sempre divertida).
-  
-- Full Stack Developer 🔥
-- Apaixonado por aprender e explorar novas tecnologias 📚
-- Hobby? Fechar umas quests (ou jogos) nas horas vagas 🎮  
-- Contate-me: lucasalex7235@gmail.com
+Seja bem-vindo ao meu perfil!
 
+Sou desenvolvedor Full Stack, tenho 28 anos e moro em Osasco–SP. Iniciei minha jornada no desenvolvimento de software em 2020 pelo Front-end e, desde então, venho evoluindo continuamente, explorando novas tecnologias e aprimorando boas práticas de engenharia de software.
 
-## Principais habilidades
+Trabalho com desenvolvimento web focado em **soluções escaláveis, código limpo e aprendizado constante**. Cada projeto aqui representa um desafio resolvido, uma habilidade aprimorada e, claro, alguns bugs vencidos no caminho.
+
+📌 **Resumo rápido**
+- 💻 Full Stack Developer
+- 🚀 Foco em evolução contínua e qualidade de código
+- 🧠 Curioso por novas tecnologias e arquitetura de software
+- 🎮 Gamer nas horas vagas (porque todo dev precisa de side quests)
+- 📫 Contato: **lucasalex7235@gmail.com**
+
+---
+
+## Stack & Tecnologias
 
 <div align="left">
-  <a href="https://github.com/LucasAlex7235?tab=repositories&q=&type=&language=python&sort=">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="javascript logo"  />
-  </a> 
-  <a href="https://github.com/LucasAlex7235?tab=repositories&q=&type=public&language=javascript&sort=">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  </a>
-  <a href="https://github.com/LucasAlex7235?tab=repositories&q=react&type=public&language=&sort=">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
-  </a>
-  <a href="https://github.com/LucasAlex7235?tab=repositories&q=&type=public&language=typescript&sort=">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </div>
 
-## Minhas redes
+---
+
+## Onde me encontrar
+
 <div align="left">
   <a href="https://www.linkedin.com/in/lucasalex7235/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5511961466798&text=Ol%C3%A1%20Lucas%2C%20Vi%20o%20seu%20perfil%20do%20GitHub!" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://api.whatsapp.com/send?phone=5511961466798&text=Olá%20Lucas,%20vi%20seu%20perfil%20no%20GitHub!" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40"/>
   </a>
   <a href="https://www.instagram.com/lucasalex7235/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40"/>
   </a>
 </div>
 
-###
+---
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
