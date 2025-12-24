@@ -19,7 +19,7 @@ Trabalho com desenvolvimento web focado em **soluções escaláveis, código lim
 - 💻 Full Stack Developer
 - 🚀 Foco em evolução contínua e qualidade de código
 - 🧠 Curioso por novas tecnologias e arquitetura de software
-- 🎮 Gamer nas horas vagas (porque todo dev precisa de side quests)
+- 🎮 Gamer nas horas vagas
 - 📫 Contato: **lucasalex7235@gmail.com**
 
 ---
@@ -58,6 +58,4 @@ Trabalho com desenvolvimento web focado em **soluções escaláveis, código lim
   </a>
 </div>
 
----
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
